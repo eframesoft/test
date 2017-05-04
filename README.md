@@ -18,7 +18,7 @@
 
  我们将按照CBF的架构逐步扩充arky的内容。在不远的将来，arky将包括以下一系列应用框架和开发、管理工具：
 
- ![](./) ![]
+ ![](https://github.com/eframesoft/test/blob/master/arky-1.png) 
 
 
 
@@ -35,8 +35,8 @@
 
  以及一些更重要、更关键的基础组件：
 
- ![](./) ![]
- 
+ ![](https://github.com/eframesoft/test/blob/master/arky-2.png)
+
 1. 常用基础服务，包括基于ODBC/JDBC、具有多种DBMS接口自适应能力的Sql服务，以及基于通信与消息处理应用框架的时钟服务、信号服务、共享资源服务等。
 2. OXM框架，用以实现对象与XML文档的映射的相关接口和辅助设施。
 3. ORM框架，用以实现对象与关系数据库的映射的相关接口和辅助设施。
